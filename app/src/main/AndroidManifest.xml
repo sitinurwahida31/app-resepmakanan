@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.resepmakanan">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.ResepMakanan">
+        <activity android:name=".aymcola"></activity>
+        <activity android:name=".aymgoreng" />
+        <activity android:name=".aymkreseng" />
+        <activity android:name=".aymkretep" />
+        <activity android:name=".aympindang" />
+        <activity android:name=".ResepAyam" />
+        <activity android:name=".tmpkeju" />
+        <activity android:name=".tmpento" />
+        <activity android:name=".tmpkripik" />
+        <activity android:name=".tmposeng" />
+        <activity android:name=".tmpcaisim" />
+        <activity android:name=".thtiram" />
+        <activity android:name=".thomelet" />
+        <activity android:name=".thmercon" />
+        <activity android:name=".thkrispi" />
+        <activity android:name=".thbubuk" />
+        <activity android:name=".ResepTempe" />
+        <activity android:name=".ResepTahu" />
+        <activity android:name=".syrtoge" />
+        <activity android:name=".syrlabu" />
+        <activity android:name=".syrcapcay" />
+        <activity android:name=".syrbobor" />
+        <activity android:name=".syrasam" />
+        <activity android:name=".ResepSayur" />
+        <activity android:name=".nastim" />
+        <activity android:name=".nascam" />
+        <activity android:name=".nasram" />
+        <activity android:name=".naspec" />
+        <activity android:name=".Nasgor" />
+        <activity android:name=".ResepNasi" />
+        <activity android:name=".AllKategori" />
+        <activity android:name=".SignUp" />
+        <activity android:name=".Login">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".MainActivity" />
+    </application>
+
+</manifest>

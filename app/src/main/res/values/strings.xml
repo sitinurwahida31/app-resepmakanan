@@ -1,0 +1,523 @@
+<resources>
+    <string name="app_name">ResepMakanan</string>
+    <string name="bhnNasgor">~ 200 gram cumi potong memanjang\n
+        <br> ~ 150 gram udang gram</br>\n
+        <br>~ 1 buah bawang bombay, iris memanjang</br>\n
+        <br>~ 2 sdm minyak</br>
+        </string>
+    <string name="bmNasgor">~ 2 siung bawang putih, cincang halus\n
+        <br>~ 1 sdm saus tiram</br>\n
+        <br>~ 1 sdm kecap ikan</br>\n
+        <br>~ 1 sdm kecap manis</br>\n
+        <br>~ 1 sdm angciu atau arak masak</br>\n
+        <br>~ 3 sdm kecap asin</br>
+    </string>
+    <string name="cmNasgor">1. Panaskan minyak dan tumis bawang putih sampai harum\n
+    <p>2. masukkan cumi, udang dan bawang bombay aduk sebentar</p>\n
+        <p>3. masukkan nasi dan tambahkan saus tiram, kecap ikan, kecap manis, aduk sampai nasi dan bumbu tercampur rata, angkat</p>\n
+        <p>4. Taruh di piring dan sajikan</p>
+    </string>
+    <string name="bhnpecel">~ 1 ikat bayam, siangi\n
+        <p>~ 10 batang kacang panjang, potong 2 cm</p>\n
+        <p>~ 100 gram taoge, buang ekornya</p>\n
+        <p>~ 2 mentimun sayur, potong tipis</p>\n
+        <p>~ 250 ml air masak</p>\n
+        <p>~ 250 gram kacang tanah, goreng</p>\n
+        <p>~ 3 buah cabai merah besar, goreng</p>
+    </string>
+    <string name="bmnaspec">~ 4 siung bawang putih, goreng\n
+        <p>~ 1 sdt asam jawa</p>\n
+        <p>~ 3 lembar daun jeruk</p>\n
+        <p>~ 3 ruas jari kencur</p>\n
+        <p>~ 1/2 sdt garam</p>\n
+        <p>~ sdt gula pasir</p>\n
+        <p>~ trancam mentah</p>\n
+        <p>~ 1 buah mentimun, cincang kasar</p>\n
+        <p>~ 3 sdm petai cina</p>\n
+        <p>~ 10 kuntum daun kemangi</p>\n
+        <p>~ 3 sendok makan taoge pendek</p>
+    </string>
+    <string name="bhnpeyek">~ 100 gram kacang tanah, belah 2\n
+        <p>~ 150 gram tepung beras</p>\n
+        <P>~ 1 sdm tepung kanji</P>\n
+        <P>~ 100 ml santan kental dari 250 gram kelapa parut</P>\n
+        <p>~ 250 ml air</p>\n
+        <p>~ minyak goreng secukupnya</p>
+     </string>
+    <string name="bhntempe">~ 300 gram tempe, hancurkan\n
+        <p>~ 50 gram tempe setengah asam</p>\n
+        <p>~ 2 sdm tepung terigu</p>\n
+        <p>~ minyak goreng secukupnya</p>\n
+    </string>
+    <string name="bhnayam">~ 1 kg ayam utuh,potong 8 atw sesuai selera\n
+        <p>~ 2 lembar daun salam</p>\n
+        <p>~ 2 lembar daun jeruk</p>\n
+        <p>~ secukupnya Garam</p>\n
+        <p>~ secukupnya Air utk memasak ayam</p>\n
+        <p>~ 7 siung bawang merah</p>\n
+        <p>~ 5 siung bawang putih</p>\n
+        <p>~ 1 ruas kunyit</p>\n
+        <p>~1 ruas jahe</p>\n
+        <p>~ 2 ruas jempol lengkuas​</p>\n
+        <p>~ 4 kemiri</p>\n
+        <p>~ 1 btg sereh, bagian putihnya</p>\n
+        <p>~ Air utk mengungkep ayam</p>\n
+    </string>
+    <string name="bhnkentang">~ 1/2 kg kentang,potong kotak\n
+        <p>~ sesuai selera Kaldu bubuk rasa ayam,garam, penyedap rasa</p>\n
+        <p>~1/2 sdt gula merah disisir, 2 salam dan 2 cm lengkuas digeprek</p>\n
+        <p>~ 5 cabai rawit merah</p>\n
+        <p>~ 14 cabai merah keriting</p>\n
+        <p>~ 4 siung bawang putih</p>\n
+        <p>~ 2 kemiri</p>\n
+        <p>~ 10 siung bawang merah</p>
+    </string>
+    <string name="bhnmigor">~ 1 mie telur cap 3 ayam\n
+        <p>~ 2 btg daun bawang,iris serong memanjang</p>\n
+        <p>~ 1/4 kol dr kol utuh, iris kasar</p>\n
+        <p>~ 1/2 bawang Bombay,iris tipis</p>\n
+        <p>~ 1/2 sdm lada bubuk dan kecap manis secukupnya</p>\n
+        <p>~ sedikit Garam, aj Krn kaldu bubuk sdh asin</p>\n
+        <p>~ 5 siung bawang putih</p>\n
+        <p>~ 5 siung bawang merah</p>\n
+        <p>~ 3 kemiri</p>
+    </string>
+    <string name="cmnasrem">1. Cuci bersih ayam, lalu taruh di wajan, tambahkan bumbu halus,bumbu yg lain dan beri air secukupnya. Masak ayam dengan api sedang cenderung kecil sampai air menyusut dan bumbu meresap.
+            Panaskan minyak goreng, lalu gorenglah ayam di api besar, dan segera angkat setelah bagian luar daging ayam berkulit dan kering.\n\n
+        <p>2. Kupas kentang, bersihkan dan potong dadu/ kotak kecil, lalu goreng dan sisihkan.
+            Tumis bumbu halus,daun salam dan lengkuas sampai harum dan gak langu. Beri air sedikit agar bumbu tumisan tdk kering.
+            Lalu masukkan kentang yg sdh digoreng aduk rata lalu masukkan kaldu bubuk, penyedap rasa dan garam secukupnya.
+             Aduk rata dan masak sampai bumbu rmeresap, koreksi rasa dan siap disajikan. </p>\n\n
+        <p>3. Seduh mie dgn air mendidih (nyeduhnya jgn sampai lodoh) sblm menyeduh mie, masukkan sedikit minyak di air mendidih nya agar mie tdk lengket,lalu tiriskan Tumis bumbu halus dan bawang bombay sampai harum,
+            tambah sedikittt air aj(kurleb 50 ml) agar tdk kering, kemudian masukkan sayuran aduk rata masak hingga agak layu, lalu masukkan mie tambahkan kecap manis, lada bubuk, kaldu bubuk, dan sedikit garam aduk sampai
+            bumbu merata dan meresap, lalu koreksi rasa.</p>\n\n
+        <p>4. Ambil piring lalu ambil nasi dan cetak dimangkok kecil, taburi bawang goreng, tata semua lauk, tambah irisan mentimun dan tomat.. yummy..nasi rames siap disantap.</p>\n
+    </string>
+    <string name="bhnnascam">- 1 ekor ayam Jawa\n
+        <p>- 5 telur ayam</p>\n
+        <p>- 5 tahu</p>\n
+        <p>- 8 siung bawang merah</p>\n
+        <p>- 5 siung bawang putih</p>\n
+        <p>- 6 kemiri</p>\n
+        <p>- 1 sdt ketumbar</p>\n
+        <p>- 0,5 sdt lada bubuk</p>\
+        <p>- 3 lembar daun salam</p>\n
+        <p>- 3 lembar daun jeruk</p>\n
+        <p>- 3 cm lengkuas digeprek</p>\n
+        <p>- 1 serai digeprek</p>\n
+        <p>- 2 bungkus santan</p>\n
+        <p>- 4 sdm kecap manis</p>\n
+        <p>- Gula Jawa</p>\n
+        <p>- Gula, garam, dan penyedap</p>
+    </string>
+    <string name="bhnmiesoun">- 1 papan mi soun\n
+        <p>- 3 siung bawang putih</p>\n
+        <p>- 3 siung bawang merah</p>\n
+        <p>- 2 cabai merah besar</p>\n
+        <p>- 2 sdm kecap manis</p>\n
+        <p>- Gula, garam, dan lada bubuk</p>\n
+    </string>
+    <string name="bhnbuncis">- 8 buncis - 2 buah wortel\n
+        <p>- 4 siung bawang putih </p>\n
+        <p>- 3 siung bawang merah </p>\n
+        <p>- 2 cabai merah besar </p>\n
+        <p>- 5 sdm air putih - Gula, garam, dan lada bubuk</p>
+    </string>
+    <string name="cmnascam">1. Semur: blender halus semua bahan bumbu kecuali daun salam, daun jeruk, serai, dan lengkuas. Kemudian tumis hingga harum. Masukkan serai geprek,
+            daun salam, daun jeruk, dan lengkuas geprek. Diikuti ayam Jawa yang sudah dipotong-potong, air dan santan, tahu, telur rebus, kecap manis, gula Jawa, gula, garam, dan
+            lada bubuk. Masak di api kecil hingga matang.\n\n
+        <p>2. Mi soun: rebus soun, angkat dan tiriskan.
+            Iris tipis bawang merah, bawang putih, cabai merah, dan tumis hingga harum, diikuti mi soun, gula, garam, lada bubuk, dan kecap manis.</p>\n
+        <p>3. Tumis buncis wortel: iris tipis-tipis bawang merah, bawang putih, cabai merah besar, dan tumis hingga harum, diikuti buncis, wortel, air, gula, garam, dan lada.
+            Masak hingga matang.</p>\n\n
+        <p>4. Tata nasi dengan lauknya di piring kemudian siap untuk disajikan.</p>
+    </string>
+    <string name="bhnnastim">~ Beras - 300 gram\n
+        <p>~ Air - 500 ml</p>\n
+        <p>~ Daun pisang, untuk membungkus - secukupnya</p>\n
+        <p>~ Ayam goreng - 4 potong</p>\n
+        <p>~ Tahu goreng - 4 potong</p>\n
+        <p>~ Tempe goreng - 4 potong</p>\n
+        <p>~ Mentimun, dipotong-potong - 1 buah</p>\n
+        <p>~ Daun kemangi, dipetik daunnya - 1 ikat</p>\n
+        <p>~ Selada - 1 ikat</p>\n
+        <p>~ Sambal terasi - secukupnya</p>
+    </string>
+    <string name="cmnastim">1. Cuci beras sampai bersih\n
+        <p>2. Didihkan air dalam panci, lalu masukan beras dan aduk sampai air meresap.</p>\n
+        <p>3. Matikan api, diamkan selama 10 menit.</p>\n
+        <p>4. Kukus beras selama 30 menit sampai matang. Angkat. </p>\n
+        <p>5. Ambil selembar daun pisang dan taruh 5 sendok makan nasi. Gulung daun pisang. Puntir ujung daun kanan dan kiri. Masukkan ke bagian tengah sambil didorong ke dalam.</p>
+    </string>
+    <string name="bhnsyrasam">~ 500 gram iga sapi\n
+        <br>~ 1,5 liter air</br>\n
+        <br>~ 2 lembar daun salam</br>\n
+        <br>~ 2 lembar daun so</br>\n
+        <br>~ 2 buah mentimun, potong–potong</br>\n
+        <br>~ 1 sendok teh asam jawa larutkan dengan 2 sendok makan air</br>\n
+        <br>~ 100 gram kacang panjang, potong – potong</br>\n
+        <br>~ 1 buah jagung manis, potong 4 bagian</br>
+    </string>
+    <string name="bmsyrasam">~ 5 butir bawang merah\n
+        <br>~ 2 siung bawang putih</br>\n
+        <br>~ 2 buah cabai merah</br>\n
+        <br>~ ¼ sendok teh terasi goreng</br>\n
+        <br>~ 2 butir kemiri</br>
+    </string>
+    <string name="cmsyrasam">1. Didihkan air, masukkan iga dan daun salam. Masak hingga daging matang dan empuk\n
+        <br>2. Beri bumbu halus, masak kembali hingga bumbu matang. Tambahkan mentimun, kacang panjang, jagung manis, air asam. Masak hingga bahan matang. angkat, sajikan.</br>
+    </string>
+    <string name="bhnsyrbobor">~ 2 gelas santan dari 1/4 butir kelapa\n
+        <br>~ 2 lembar daun salam</br>\n
+        <br>~ 50 gram tempe setengah busuk, potong dadu</br>\n
+        <br>~ 2 ikat kacang panjang, potong 3 cm</br>
+    </string>
+    <string name="bmsyrbobor">~ 2 siung bawang putih\n
+        <br>~ 4 butir bawang merah</br>\n
+        <br>~ 2 cm kencur</br>\n
+        <br>~ 1/2 sdt garam</br>
+    </string>
+    <string name="cmsyrbobor">1. didihkan santan masukkan daun salam, tempe, kacang panjang dan bumbu halus. Aduk dan masak hingga kacang panjang masak\n
+        <br>2. Tempatkan sayur bobor di mangkuk saji, hidangkan selagi panas</br>
+    </string>
+    <string name="bhnsyrcapcay">~ wortel. iris tipis, 1 buah\n
+        <br>~ sawi putih potong 5 lembar</br>\n
+        <br>~ sawi hijau potong 5 lembar</br>\n
+        <br>~ bunga kol potong 75 gram</br>\n
+        <br>~ daun bawang iris serong 2 batang</br>\n
+        <br>~ bakso belah dua 5 butir</br>\n
+        <br>~ ati, empela, rebus lalu potong</br>\n
+        <br>~ paha ayam goreng lalu suwir</br>\n
+        <br>~ kekian goreng lalu potong 100 gram</br>\n
+        <br>~ 3 sdm minyak</br>\n
+        <br>~ air secukupnya</br>
+    </string>
+    <string name="bmsyrcapcay">~ bawang merah, cincang 2 butir\n
+        <br>~ bawang putih haluskan 3 siung</br>\n
+        <br>~ kemiri, sangrai lalu haluskan 2 butir</br>\n
+        <br>~ merica bubuk 1/2 sdt</br>\n
+        <br>~ garam 1 sdt</br>\n
+        <br>~ gula pasir 1/2 sdt</br>\n
+        <br>~ kecap manis 1/2 sdm</br>\n
+        <br>~ kaldu bubuk 1/2 sdt</br>
+    </string>
+    <string name="cmsyrcapcay">1. dalam wadah, campurkan semua bahan lalu aduk hingga benar-benar rata\n
+        <br>2. panaskan minyak, tumis bawang merah, putih dan kemiri hingga harum</br>\n
+        <br>3. masukkan bakso, ati empela, dan ayam suwir</br>\n
+        <br>4. tuangkan sedikit air, masukkan wortel sawi, dan kembang kol, aduk rata dan masak hingga sayuran matang</br>\n
+        <br>5. tambahkan garam, merica, gula, kecap</br>\n
+        <br>6. masukkan daun bawang</br>\n
+        <br>7. sajikan dengan taburan bawang goreng</br>
+    </string>
+    <string name="bhnsyrlabu">~ 2 buah labu siam\n
+        <br>~ 4 lembar daun salam</br>\n
+        <br>~ 1 ruas ibu jari lengkuas</br>\n
+        <br>~ 750 ml santan</br>\n
+        <br>~ 3 sdm minyak</br>\n
+        <br>~ 4 buah cabe hijau</br>
+    </string>
+    <string name="bmsyrlabu">~ 4 buah cabai merah\n
+        <br>~ 8 butir bawah merah</br>\n
+        <br>~ 3 siung bawah putih</br>\n
+        <br>~ garam secukupnya</br>
+    </string>
+    <string name="cmsyrlabu">1. panaskan minyak tumis bumbu, lengkuas dan daun salam\n
+        <br>2. masukan labu siam dan cabai hijau hingga layu, kemudian masukkan santan jngan sampai pecah, setelah mendidih tambahkan gula pasir, aduk dan kecilkan api</br>\n
+        <br>3. Teruskan memasak selama 5 menit hingga bumbu meresap, setelah itu sajikan</br>
+    </string>
+    <string name="bhnsyrtoge">~ 1 sdm teri nasi asin\n
+        <br>~ 3 siung bawang puting iris</br>\n
+        <br>~ 4 butir bawang merah</br>\n
+        <br>~ 1 buah cabai merah</br>\n
+        <br>~ 3 cm lengkuas</br>\n
+        <br>~ 1 lembar daun salam</br>\n
+        <br>~ 1/4 gelas air</br>\n
+        <br>~ 1/4 gelas air</br>\n
+        <br>~ 1/4 sdt garam</br>\n
+        <br>~ 1/4 sdt merica bubuk</br>\n
+        <br>~ 200 gram toge</br>\n
+        <br>~ 1 daun bawang potong</br>\n
+        <br>~ 1 batang seledri</br>\n
+        <br>~ minyak goreng secukupnya</br>
+    </string>
+    <string name="cmsyrtoge">1. goreng teri nasi hingga garing\n
+        <br>2. panaskan 2 sdm minyak dan tumis semua bumbu hingga harum kemudian masuukan teri dan tambahkan air, garam dan merica, kemudian tambahkan toge
+            daun bawang dan seledri</br>\n
+        <br>3. siap hidangkan</br>
+    </string>
+    <string name="bhnthbubuk"> Tahu kuning, hancurkan 5 buah\n
+        <br> Cabai merah besar, iris tipis 3 buah</br>\n
+        <br> Bawang merah 5 butir</br>\n
+        <br> Bawang putih 2 siung</br>\n
+        <br> Daun bawang, iris tipis 1 batang</br>\n
+        <br> Garam 1 sdt</br>\n
+        <br> Kaldu ayam bubuk ½ sdt</br>\n
+        <br> Telur ayam, kocok lepas 1 butir</br>
+    </string>
+    <string name="cmthbubuk">1.Haluskan bawang merah dan bawang putih. Lalu tumis bawang merah dan bawang putih hingga harum\n
+        <br>2. Masukkan cabai merah dan daun bawang yang sudah diiris. Masak hingga layu. Kemudian, mauukan tahu yang sudah dihancurkan
+            dan tambahkan garam, aduk rata.</br>\n
+        <br>3. Masukkan telur kemudian orak orik hingga hancur menyerupai tahu.</br>\n
+        <br>4. Setelah bumbu tercampur rata dan kadar air pada tahu agak mongering. Angkat. Sajikan diatas piring.</br>\n
+        <br>5. Tips : jika tahu memiliki kadar air banyak lebih baik tiriskan terlebih dahulu.</br>
+    </string>
+    <string name="bhnthmercon">- Tahu kuning setidaknya 10 buah dan ukuran 4 × 4 cm.</string>
+    <string name="bhnisitahu">- Daging ayam 100 gr yang sudah dicincang.\n
+        <br>- Wortel 2 buah yang sudah diserut kasang lalu memanjang.</br>\n
+        <br>- Kol 4 lembar, iris secara halus.</br>\n
+        <br>- Tauge 125 gr yang ekornya disisihkan, cuci sampai bersih dan tiriskan.</br>\n
+        <br>- Daun bawang cincang atau Rajang halus 1 batang.</br>\n
+        <br>- Seledri cintang 2 batang.</br>
+
+    </string>
+    <string name="bhnlapisantahu">- Tepung terigu 125 gr.\n
+        <br>- Tepung beras 2 sendok makan.</br>\n
+        <br>- Tepung tapioka 1 sendok makan.</br>\n
+        <br>- Garam</br>\n
+        <br>- Daun bawang cincang 1 buah.</br>\n
+        <br>- Ketumbar bubuk ½ sdt.</br>\n
+        <br>- Air 200 ml.</br>
+    </string>
+    <string name="bmisitahu">- Bawang putih 3 siung yang sudah dicincang\n
+        <br>- Bawang merah cincang 4 butir.</br>\n
+        <br>- Bawang Bombay cincang ½ butir.</br>\n
+        <br>- Cabai rawit yang sudah diiris tipis 15 butir.</br>\n
+        <br>- Merica haus ½ sdt</br>\n
+        <br>- Gaam halus ½ sdt.</br>\n
+        <br>- Bumbu penyedap rasa secukupnys saja.</br>
+
+    </string>
+    <string name="cmthmercon">1.Iris semua sisi tahu yang sudah digoreng lalu ambil sebagian isi tahu.\n
+        <br>2. Tumis isi tahu yag sudah diambil bareng dengan bumbu isinya. Jika sudah, tiriskan.</br>\n
+        <br>3. Masukan isian tahu yang sudah ditiriskan dalam lubang tahu. Pastika bahwa tahu sudah terisi padat,
+            dan tutup atau rekatkan irisan tahu dengan adonan pelapis. Celupkan seluruh tahu yang telah diisi dalam adonan pelapis.</br>\n
+        <br>4. Goring tahu menggunakan minyak panas dan dalam. Bolak-balik sampai kedua sisinya kuning kecoklatan.</br>\n
+        <br>5. Angkat, dan tiriskan.</br>\n
+        <br>6. Sajikan tahu mercon</br>
+    </string>
+    <string name="bhnthomelet">- 4 buah tahu putih atau kuning yang sebelumnya sudah digoreng setengah matang dan dibentuk dadu.\n
+        <br>- Telur 5 butir</br>\n
+        <br>- Tauge 200 gr yang telah direbus sebentar.</br>\n
+        <br>- Daun seledri cincang secukupnya saja.</br>\n
+        <br>- Melica halus ½ sendok the.</br>\n
+        <br>- Garam secukupnya.</br>\n
+        <br>- Minyak goring</br>\n
+        <br>- Emping untuk pelengkap sajian.</br>
+
+    </string>
+    <string name="bhnsauskacang">- Kacang tanah 100 gr yang sudah digoreng matang.\n
+        <br>- Bawang merah 4 butir</br>\n
+        <br>- Bawang putih 1 siung</br>\n
+        <br>- Garam 1 sdt</br>\n
+        <br>- Gula merah 4 sendok makan</br>\n
+        <br>- Rawit merah 4 buah.</br>
+
+    </string>
+    <string name="cmthomelet">1.\tPecah telur dalam wadah terlebih dahulu, masukkan merica halus dan garam dan aduk hingga rata
+        <br>2. Tambahkan tahu yang suda digoreng stenagh matang lalu aduk rata.</br>\n
+        <br>3. Masukkan adonan kedalam wajan yang sudah panas dan dituangkan minyak secukupnya. Tunggu sampai warnanya berubah kecoklatan,
+            angkat dan tiriskan.</br>\n
+        <br>4. Untuk bisa membuat saus, campur lalu haluskan seluruh bumbu dan goring sampai harum. Masukkan juga air dan gula merah.
+            Tunggu sampai airnya mendidih.</br>\n
+        <br>5. Letakkan tahu telur yang telah matang tadi ke dalam piring saji.</br>\n
+        <br>6. Siram pakai bumbu matang dan taburi emping serta kecap manis.</br>\n
+        <br>7. Taburi cincangan daun seledri.</br>\n
+        <br>8. Omelet tahu siap disajikan.</br>
+
+    </string>
+    <string name="bhnthtiram">- 1 kotak tahu (cuci bersi, potong dadu\n
+        <br>- ½ bawang Bombay, iris tipis</br>\n
+        <br>- ½ sdt bubuk cabai.</br>\n
+        <br>- Lada bubuk secukupnya.</br>\n
+        <br>- Minyak goring, secukupnys untuk menggoreng dan menumis tahu.</br>\n
+        <br>- 2 siung bawang putih, cincang halus</br>\n
+        <br>- 2 siung bawang merah, cincang halus.</br>\n
+        <br>- 1 sdt saus tiram</br>\n
+        <br>- Garam secukupnya</br>\n
+        <br>- Kecap manis secukupnya</br>\n
+        <br>- 1 batang daun bawang cincang halus.</br>
+    </string>
+    <string name="cmthtiram">1. Goring setengah matang tahu. Tiriskan dan sisihkan\n
+        <br>2. Panaskan sedikit minyak, tumis bawang putih, bawang merah, bawang Bombay sampai harum.</br>\n
+        <br>3. Masukkan cabai, aduk rata. Tumis hingga layu</br>\n
+        <br>4. Masukkan tahu lalu aduk rata</br>\n
+        <br>5. Beri garam, lada bubuk, suas tiram, dan kecap manis secukupnya. Aduk rata semua bahan.</br>\n
+        <br>6. Tuang sedikit air, masak hingga air berkurang banyak. Masukkan daun bawang, aduk rata.</br>
+    </string>
+    <string name="bhnthkrispi">- 2 buah tahu, potong dadu.\n
+        <br>- 250 gram tepung terigu.</br>\n
+        <br>- 300 ml minyak goring.</br>\n
+        <br>- 150 ml air.</br>\n
+        <br>- ½ sdt bumbu penyedap rasa ayam.</br>
+    </string>
+    <string name="cmthkrispi">1. Buat adonan tepung terigu dengan air dan penyedap rasa.\n
+        <br>2. Masukkan tahu ke adonan, keluarkan dan guling ke tepung terigu yang dicampur dengan penyedap.</br>\n
+        <br>3. Goreng sampai kecoklatan dan sajikan.</br>
+    </string>
+    <string name="bhntmpkripik">- 3 kotak tempe, iris tipis-tipis dan angina-anginkan sebentar.\n
+        <br>- 100 gr tepung terigu</br>\n
+        <br>- 150 gr tepung beras.</br>\n
+        <br>- 100 gr tepung tapioka</br>\n
+        <br>- Air secukupnya</br>
+    </string>
+    <string name="bmthkrispi">- 8 siung bawang putih\n
+        <br>- 2 sendok makan ketumbar.</br>\n
+        <br>- Garam secukupnya</br>
+    </string>
+    <string name="cmthkripik">1. Campur tepung terigu, tepung tapiokam dan tepung beras dengan bumbu halus. Tambahkan air hingga jadi adonan agak kental.\n
+        <br>2. Masukkan satu persatu tempe ke adonan tepung basah.</br>\n
+        <br>3. Goring dalam minyak hingga tenggelam. Gunakan api sedanh.</br>v
+        <br>4. Goring ingga kering dan berwarna kecoklatan, lalu angkat dan tiriskan minyaknya.</br>\n
+        <br>5. Sajikan keripik tempe yang sudah digoreng. Jika hendak disimpan,  bairkan sampai dingin terlebih dahulu. Setelah itu baru disimpan didalam toples kedap udara.</br>
+    </string>
+    <string name="bhntmpkeju">- 150 gr tempe, iris tipis jadi 12 bagian, lalu kukus.\n
+        <br>- 2 lembar keju lembaran, potong jadi 6 bagian.</br>\n
+        <br>- 3 siung bawang putih, haluskan.</br>\n
+        <br>- 50 ml air.</br>\n
+        <br>- Garam secukupnya.</br>\n
+        <br>- 1 butir telur.</br>\n
+        <br>- Tepung panir dan minyak untuk menggoreng secukupnya.</br>
+    </string>
+    <string name="cmtmpkeju">1. Rendam tempe kedalam larutan air, garam dan bawang putih hingga meresap. Angkat, selipkan irisan keju
+            disetiap dua irisan tempe lalu masing-masing digulingkan ke tepung panir.\n
+        <br>2.	Celupkan kedalam kocokan telur dan garam lalu gulingkan lagi ke tepung panir. Goreng dalam minyak panas hingga
+            kuning kecoklatan, angkat dan tiriskan.</br>
+    </string>
+    <string name="bhntmposeng">- Tempe (2 papan) 300 gram.\n
+        <br>- Bawang merah, iris tipis 5 butir.</br>\n
+        <br>- Bawang putih, iris tipis 3 siung.</br>\n
+        <br>- Cabai hijau besar, iris serong, 10 buah.</br>\n
+        <br>- Lengkuas 1 ruas jari.</br>\n
+        <br>- Daun salam 2 lembar.</br>\n
+        <br>- Kecap manis 4 sdm.</br>\n
+        <br>- Garam secukupnya.</br>
+    </string>
+    <string name="cmtmposeng">1. Potong tempe kotak-kotak kecil kemudian goring setengah kering, sisihkan.\n
+        <br>2. Panaskan minyak, kemudian tumis bawang merah, bawang putih, lengkuas dan daun salam sampai harum. Masukkan cabai hijua.</br>\n
+        <br>3. Masukkan tempe kemudian tambahkan kecap manis dan sedikit garam, aduk rata</br>\n
+        <br>4. Masak sampai bumbu meresap, angkat dan sajikan.</br>\n
+        <br>5. Tips : Jika takut terlalu pedas. Anda bisa hilangkan atau kurangin bii cabai hijau. Gunakan bagian kulitnya saja untuk
+             memberi warna pada oseng tempe.</br>
+
+    </string>
+    <string name="bhntmpento">- 300 gr tempe, kukus\n
+        <br>- ¾ sendok the garam</br>\n
+        <br>- ¼ sendok the gula pasir</br>\n
+        <br>- 1 buah putih telur untuk mencelup.</br>v
+        <br>- 500 ml minyak, untuk menggoreng.</br>
+    </string>
+    <string name="bmtmpento">- 2 butir bawang merah\n
+        <br>- 1 siung bawang putih</br>\n
+        <br>- 2 buah cabai merah keriting.</br>
+    </string>
+    <string name="cmtmpento">1.Haluskan tempe. Tambahkan bumbu halus, garam, dan gula pasir. Aduk rata.\n
+        <br>2. Bentuk bola bola. Celupkan kedalam putih telur.</br>\n
+        <br>3. Goring didalam minyak yang sudah dipanaskan diatas api yang sedang sampai matang.</br>
+    </string>
+    <string name="bhntmpcaisim">- 300 gr tempe, potong korek api, goring berkulit.\n
+        <br>- 5 batang caisim, potong-potong.</br>\n
+        <br>- 3 siung bawang putih, memarkan.</br>\n
+        <br>- 3 buah cabai merah keriting, cincang kasar.</br>\n
+        <br>- 2 buah cabai hijau keriting, cincang kasar.</br>\n
+        <br>- 2 sdt kecap ikan</br>\n
+        <br>- ¼ sdt garam</br>\n
+        <br>- ¼ sdt merica bubuk</br>\n
+        <br>- ¼ sdt gula pasir</br>\n
+        <br>- 150 ml air.</br>\n
+        <br>- ½ sdt minyak wijen.</br>\n
+        <br>- 1 sendok makan minyak, untuk menumis.</br>
+
+    </string>
+    <string name="cmtmpcaisim">1. Panaskan minyak. Tumis bawang putih, cabai merah, dan cabai hijau sampai harum.\n
+        <br>2. Masukkan tempe. Aduk rata.</br>\n
+        <br>3. Tambahkan caisim, kecap ikan, garam, merica bubuk, dan gula pasir. Aduk rata.</br>\n
+        <br>4. Tuang ai. Aduk rata. Masak sampai matang dan meresap.</br>\n
+        <br>5. Masukkan minyak wijen. Aduk rata dan sajikan.</br>
+    </string>
+    <string name="bhnaympindang">- 1 kg ayam, potong sedang, cuci bersih.\n
+        <br>- 4 lembar daun salam.</br>\n
+        <br>- 3 buah asam kandis.</br>\n
+        <br>- Semangkuk kemangi.</br>\n
+        <br>- 2 batang daun bawang iris kasar.</br>\n
+        <br>- Garam, kaldu jamur jika suka.</br>\n
+        <br>- Air untuk kuah sesuai selera bayaknya.</br>\n
+        <br>- 15 buah cabai merah dihaluskan.</br>\n
+        <br>- 5 buah cabai rawit merah dihaluskan.</br>
+    </string>
+    <string name="bmaympindang">- 8 siung bawang merah.\n
+        <br>- 8 siung bawang putih.</br>\n
+        <br>- Seruas lengkuas.</br>\n
+        <br>- 2 batang serai</br>\n
+        <br>- Sejempol kunyit</br>\n
+        <br>- 2 cm jahe.</br>
+
+    </string>
+    <string name="cmaympindang">1. Rebus ayam hingga mendidih. Buang air rebusan, tiriskan.\n
+        <br>2. Lalu tumis bumbu iris dan cabai halus hingga harum dan matang.</br>\n
+        <br>3. Masukkan air, asam kendis, daun salam, ayam yang telah direbus, garam. Masak hingga ayam matang.</br>\n
+        <br>4. Terakhir, masukkan kaldu bubuk jika suka, kemangi dan daun bawang. Aduk-aduk. Koreksi rasa. Angkat.</br>
+    </string>
+    <string name="bhnaymkretep">500 gr ayam, potong sesuai selera.</string>
+    <string name="bmaymkretep">- 8 siung bawang merah\n
+        <br>- 5 siung bawang putih.</br>\n
+        <br>- 1 buah cabai merah</br>\n
+        <br>- 8 buah cabai rawit.</br>\n
+        <br>- 1 sdt ketumbar bulat.</br>\n
+        <br>- 5 buah kemiri.</br>\n
+        <br>- 2 cm kunyit</br>\n
+        <br>- 2 cm jahe.</br>\n
+        <br>- 1,5 sdm air asam jawa kental.</br>\n
+        <br>- Gula, garam, merica, kaldu bubuk secukupnya.</br>
+    </string>
+    <string name="cmaymkretep">1. Lumuri potongan ayam dengan garam dan jeruk nipis, diamkan 10 menit, bilas bersih.\n
+        <br>2. Kemudian tumis bumbu halus hingga harum dan matang, tambahkan air secukupnya.</br>\n
+        <br>3. Masukkan ayam, bumbui dengan gula, garam, merica adan kaldu bubuk, lalu masak hingga ayam empuk.</br>\n
+        <br>4. Angkat aya, dan goring hingga berkulit, sementara itu sisa bumbu rebusan ditumis hingga kering.</br>\n
+        <br>5. Terakhir masukkan ayam yang sudah digoreng ke bumbu, aduk rata dan sajikan.</br>
+    </string>
+    <string name="bhnaymkreseng">- 500 gr ayam, potong kecil dan kucuri jeruk nipis, bumbui garam da lada lalu goring, sisihkan.\n
+        <br>- ½ bawang Bombay, Rajang.</br>
+    </string>
+    <string name="bmaymkreseng">- 4 siung bawang putih.\n
+        <br>- 6 siung bawang merah.</br>\n
+        <br>- ½ bawang Bombay.</br>\n
+        <br>- 3 cabai merah</br>\n
+        <br>- 15 cabai rawit.</br>v
+        <br>- 1 sdt kecap asin.</br>\n
+        <br>- 1 sdm saus tiram.</br>\n
+        <br>- 3-4 sdm kecap manis.</br>\n
+        <br>- Gula, garam, merica, dan kaldu bubuk.</br>
+    </string>
+    <string name="cmaymkreseng">1. Tumis bumbu cincang hingga tanak, beri sedikit air.\n
+        <br>2. Masukkan ayam, bumbui dengan saus tiram, kecap asin, kecap manis, gula, garam, meric, dan kaldu bubuk.</br>\n
+        <br>3. Kecilkan api, saat kuah mulai asat, masukkan rajangan bawang Bombay, masak sebentar lalu angkat dan sajikan dengan taburan bawang goreng.</br>
+    </string>
+    <string name="bhnaymgoreng">- 1 kg ayam, potong-potong.</string>
+    <string name="bmaymgoreng">- 7 siung bawang putih, parut.\n
+        <br>- 4 sdm ketumbar bubuk.</br>\n
+        <br>- 4 sdm gula merah.</br>\n
+        <br>- ½ buah jeruk nipis.</br>\n
+        <br>- 2 sdm kecap asin.</br>\n
+        <br>- 1 sdm garam.</br>\n
+        <br>- 1 sdm tepung sagu.</br>
+
+    </string>
+    <string name="cmaymgoreng">1. Tambahkan ayam dengan perasan jeruk nipis, kecap asin, bawang putih, gula merah, ketumbar bubuk,
+            garam, dan tepung sagu. Aduk rata. Marinasi lalu simpan dkulkas pada bagian chiller atas selama 1 malam.\n\n
+        <br>2. Goreng diminak yang telah dipanaskan dengan api kecil. Goring sampai ayam matang. Angkat dan sajikan.</br>
+    </string>
+    <string name="bhnaymcola">- 250 gr daging ayam.\n
+        <br>- 250 ml coca cola.</br>.\n
+        <br>- Garam, kaldu bubuk, dan minyak sayur secukupnya.</br>\n
+        <br>- 2 buah bawang putih, cincang halus.</br>\n
+        <br>- ½ bawang bombai, iris tipis.</br>\n
+        <br>- 3 sdm kecap manis.</br>
+    </string>
+    <string name="cmaymcola">1. Tmis bawang putih dan separuh bawang bombai. Masukkan ayam, aduk hingga ayam mulai pucat. Masukka coca cola, biarkan hingga mendidih\n
+        <br>2. Tuang kecap manis, beri garam, gula, kaldu bubuk, aduk rata. Masak hingga kuah menyusut.</br>\n
+        <br>3. Tambahkan sisa bawang bombai, aduk rata. Angkat dan sajikan.</br>
+    </string>
+    <string name="user_name">User Name</string>
+    <string name="password">Password</string>
+
+</resources>

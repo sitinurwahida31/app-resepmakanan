@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg3"
+    android:orientation="vertical"
+    android:layout_gravity="center_vertical|center_horizontal"
+    tools:context=".AllKategori">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="12dp"
+        android:paddingTop="15dp"
+        android:text="Kategori"
+        android:textColor="@color/white"
+        android:textSize="26sp"
+        android:textStyle="bold" />
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingTop="21dp"
+        >
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal|center_vertical"
+            android:paddingLeft="5dp"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="236dp"
+                android:paddingRight="5dp"
+                android:src="@drawable/sayur"
+                android:paddingBottom="20dp"
+                android:onClick="Sayur"/>
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="236dp"
+                android:paddingRight="5dp"
+                android:src="@drawable/tahu"
+                android:paddingBottom="20dp"
+                android:onClick="Tahu"/>
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="236dp"
+                android:paddingRight="5dp"
+                android:src="@drawable/tempe"
+                android:paddingBottom="20dp"
+                android:onClick="Tempe"/>
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="236dp"
+                android:paddingRight="5dp"
+                android:src="@drawable/nasi"
+                android:paddingBottom="20dp"
+                android:onClick="ResepNasi"
+                />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="236dp"
+                android:paddingRight="5dp"
+                android:src="@drawable/ayam"
+                android:paddingBottom="20dp"
+                android:onClick="DagingAyam"/>
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

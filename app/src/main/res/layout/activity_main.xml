@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/bg"
+    android:orientation="vertical"
+    android:layout_gravity="center_vertical|center_horizontal"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="250dp"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="10dp"
+            android:paddingTop="225dp"
+            android:text="Kategori"
+            android:textColor="@color/black"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="264dp"
+            android:paddingLeft="220dp"
+            android:paddingTop="225dp"
+            android:text="Semua"
+            android:onClick="Allkategori"
+            android:textColor="@color/green"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+    </LinearLayout>
+
+    <HorizontalScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+    <LinearLayout
+        android:layout_width="370dp"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:paddingLeft="25dp"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:layout_width="120dp"
+            android:layout_height="90dp"
+            android:paddingRight="5dp"
+            android:onClick="ktgsayur"
+            android:src="@drawable/sayur" />
+
+        <ImageView
+            android:layout_width="120dp"
+            android:layout_height="90dp"
+            android:paddingRight="5dp"
+            android:onClick="ktgayam"
+            android:src="@drawable/ayam" />
+
+        <ImageView
+            android:layout_width="120dp"
+            android:layout_height="90dp"
+            android:onClick="ktgtahu"
+            android:paddingRight="5dp"
+            android:src="@drawable/tahu" />
+
+        <ImageView
+            android:layout_width="120dp"
+            android:layout_height="90dp"
+            android:paddingRight="5dp"
+            android:onClick="ktgtempe"
+            android:src="@drawable/tempe" />
+
+    </LinearLayout>
+    </HorizontalScrollView>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="30dp"
+        android:paddingLeft="10dp"
+        android:text=" New's"
+        android:textColor="@color/black"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="10dp">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_gravity="center_horizontal">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center_horizontal|center_vertical"
+                android:paddingLeft="5dp"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:layout_width="190dp"
+                    android:layout_height="130dp"
+                    android:paddingRight="5dp"
+                    android:src="@drawable/nasram"
+                    android:onClick="nasrem"
+                    />
+                <ImageView
+                    android:layout_width="190dp"
+                    android:layout_height="130dp"
+                    android:src="@drawable/nastimb"
+                    android:paddingRight="5dp"
+                    android:onClick="nastimb"
+                    />
+                <ImageView
+                    android:layout_width="190dp"
+                    android:layout_height="130dp"
+                    android:paddingRight="5dp"
+                    android:src="@drawable/thkrispi"
+                    android:onClick="thkrispi"
+                    />
+                <ImageView
+                    android:layout_width="190dp"
+                    android:layout_height="130dp"
+                    android:paddingRight="5dp"
+                    android:src="@drawable/tmpcaisim"
+                    android:onClick="tmpcaisim"
+                    />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="190dp"
+                android:layout_height="wrap_content"
+                android:gravity="center_horizontal|center_vertical"
+                android:paddingLeft="5dp"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:layout_width="190dp"
+                    android:layout_height="130dp"
+                    android:paddingRight="5dp"
+                    android:src="@drawable/aympindang"
+                    android:onClick="aympindang"
+                    />
+                <ImageView
+                    android:layout_width="190dp"
+                    android:layout_height="130dp"
+                    android:src="@drawable/aymcola"
+                    android:paddingRight="5dp"
+                    android:onClick="aymcola"
+                    />
+                <ImageView
+                    android:layout_width="190dp"
+                    android:layout_height="130dp"
+                    android:paddingRight="5dp"
+                    android:src="@drawable/tmposeng"
+                    android:onClick="tmposeng"
+                    />
+                <ImageView
+                    android:layout_width="190dp"
+                    android:layout_height="130dp"
+                    android:paddingRight="5dp"
+                    android:src="@drawable/thmercon"
+                    android:onClick="thmercon"
+                    />
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</LinearLayout>
